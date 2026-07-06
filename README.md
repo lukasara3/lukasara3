@@ -43,10 +43,5 @@ I am actively seeking opportunities in software development and technology consu
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/lukasara3">
-    <img src="https://github-readme-stats.vercel.app/api?username=lukasara3&show_icons=true&theme=radium" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/lukasara3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasara3&layout=compact&theme=radium" alt="Top Languages" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?user=lukasara3&theme=radium" alt="Lucas's GitHub Stats" />
 </div>
