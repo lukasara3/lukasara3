@@ -40,8 +40,9 @@ I am actively seeking opportunities in software development and technology consu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Top Languages
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=lukasara3&theme=radium" alt="Lucas's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?user=lukasara3&theme=radium&hide_border=true" alt="Lucas's GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasara3&layout=compact&theme=radium&hide_border=true" alt="Top Languages" height="195"/>
 </div>
