@@ -43,6 +43,5 @@ I am actively seeking opportunities in software development and technology consu
 ### 📊 GitHub Stats & Top Languages
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?user=lukasara3&theme=radium&hide_border=true" alt="Lucas's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasara3&layout=compact&theme=radium&hide_border=true" alt="Top Languages" height="195"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=lukasara3&theme=radium&hide_border=true" alt="Lucas's GitHub Stats" height="195"/>
 </div>
